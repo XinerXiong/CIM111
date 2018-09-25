@@ -1,0 +1,12 @@
+<link href="https://fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet">
+
+
+
+  body{
+      background color: pink;
+      font-family: 'Cedarville Cursive', cursive;
+    }
+
+  #name{
+    color: orange;
+  }
